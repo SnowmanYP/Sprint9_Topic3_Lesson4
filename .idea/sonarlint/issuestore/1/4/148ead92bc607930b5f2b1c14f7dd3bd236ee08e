@@ -1,23 +1,8 @@
 
-w
-java:S3740"/Provide the parametrized type for this generic.(µ›‡‰úÿÿÿÿ8ÀÅµ¥¾2J$c744788e-2eba-4dcc-8146-9e906a2ff9ba
-w
-java:S3740"/Provide the parametrized type for this generic.(½Š’¨þÿÿÿÿ8ÀÅµ¥¾2J$04355661-15c6-41d6-b177-a33e35fba477
-w
-java:S3740"/Provide the parametrized type for this generic.(“‹ô÷ýÿÿÿÿ8ÀÅµ¥¾2J$d46dfbaf-91a5-464f-b205-010ef4c468a1
-r
-java:S3740:"/Provide the parametrized type for this generic.(§íðÆ8ÀÅµ¥¾2J$e9246e46-d165-42b7-8576-9a15e0c6bc2b
-œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(àüª¢8ÁÅµ¥¾2J$5f0ba59b-2307-4f43-a732-11c4c8eb2870
-œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(àüª¢8ÁÅµ¥¾2J$5e8f00ff-8f53-4af7-9004-428df3e46107
-œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(àüª¢8ÁÅµ¥¾2J$60b0fe47-ec8d-4dea-916a-b9584abef7b8
-Ä
-java:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ó¿×µ8ÅÅµ¥¾2J$21e35900-0a1d-4bff-824e-355832b7669d
-ƒ	java:S125H"<This block of commented-out lines of code should be removed.(Ü¡ïžüÿÿÿÿ8ÇÅµ¥¾2J$29aceb0e-bf47-4030-a03c-05d04450fd99
-ƒ	java:S125K"<This block of commented-out lines of code should be removed.(½ ®ñýÿÿÿÿ8ÇÅµ¥¾2J$6eedb918-8746-4e69-b023-765a50b4fd76
-h
-java:S2116z"%Use "Arrays.toString(array)" instead.(×Šž8ËÅµ¥¾2J$63e419ca-eb86-40e8-b627-d0246faeca95
-m	java:S106{"+Replace this use of System.out by a logger.(ÞÈÛ8ÌÅµ¥¾2J$085ba3b3-6737-4aac-8805-88ed89621a53
-m	java:S106"+Replace this use of System.out by a logger.(®Šô8ÌÅµ¥¾2J$75aa856e-f7e7-4962-a9a8-ae62f8eb577d
-n	java:S106"+Replace this use of System.out by a logger.(ÙÒò×8ÌÅµ¥¾2J$6d787560-7a85-4830-aef9-284eb65a134d
-t
-java:S1068F"1Remove this unused "timeFormatter" private field.(çÕŽë8ÍÅµ¥¾2J$c146fe2a-4374-46b5-bfd7-d63b425df5dc
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„‹öçùÿÿÿÿ8©ÞŸ¬¾2J$2b6e1775-247a-4778-8543-30f0ef2bce6c
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„‹öçùÿÿÿÿ8©ÞŸ¬¾2J$953f1451-3ce4-42ed-8502-ccc0d69619bb
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(„‹öçùÿÿÿÿ8©ÞŸ¬¾2J$f452d79b-a5ef-450d-877f-40357673c8b5
+m	java:S106u"+Replace this use of System.out by a logger.(ÞÈÛ8¿ÞŸ¬¾2J$08b5d6b7-079d-43d2-854d-b7d005e4c3ec
+r	java:S106v"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8¿ÞŸ¬¾2J$2dd182e7-6b0f-4cb7-91c9-78aeacf3c4e6
+m	java:S106y"+Replace this use of System.out by a logger.(®Šô8¿ÞŸ¬¾2J$4f4ab0f2-4643-4b94-85e2-2820b58b9330
+m	java:S106{"+Replace this use of System.out by a logger.(ÙÒò×8ÀÞŸ¬¾2J$f541b3d0-816c-43e8-ba75-0691f77048d4
